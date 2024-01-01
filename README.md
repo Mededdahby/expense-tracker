@@ -35,7 +35,7 @@
    - Edit or delete existing transactions for accurate financial records.
 
 2. **Live Demo:**
-   - Explore the live demo to experience the user-friendly features. [Live Demo]([[https://mededdahby.github.io/-expence-tracker/](https://mededdahby.github.io/expense-tracker/)
+   - Explore the live demo to experience the user-friendly features. [Live Demo([[https://mededdahby.github.io/-expence-tracker/](https://mededdahby.github.io/expense-tracker/)
 
 ## Screenshots
 

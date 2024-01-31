@@ -18,6 +18,7 @@ AddTransaction(newTransaction);
   return (
     <>
       <h3>Add new transaction</h3>
+      <div className='form'>
       <form onSubmit={onSubmite}>
         <div className="form-control">
           <label htmlFor="text">Text</label>
@@ -31,6 +32,7 @@ AddTransaction(newTransaction);
         </div>
         <button className="btn">Add transaction</button>
       </form>
+      </div>
     </>
   );
 }
